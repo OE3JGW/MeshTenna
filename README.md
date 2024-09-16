@@ -2,6 +2,15 @@
 
 The **Meshtastic Antenna Tester** is a tool designed to compare the performance of different antennas **and locations** using Meshtastic devices. It measures and analyzes signal strength (RSSI) and signal-to-noise ratio (SNR) to help you identify the best antenna and optimal locations for specific conditions. This tool uses a portable test node (TCP client, Heltec v3 is recommended) to gather data at different locations and a fixed destination node for consistent measurements.
 
+
+## Screenshots:
+![3](https://github.com/user-attachments/assets/c0f81fb4-e6e0-40c9-a1e0-cc0991927eb3)
+![4](https://github.com/user-attachments/assets/c5064705-ffb7-4e4e-95a4-778351aa9b91)
+![1](https://github.com/user-attachments/assets/14d2dee9-2374-4227-b91d-4ec4a7168b01)
+![5](https://github.com/user-attachments/assets/ce20b9d9-b6fa-4867-b7f9-0448d7fea528)
+![2](https://github.com/user-attachments/assets/d11cf70a-b77e-4252-b9c0-09341ea92ffd)
+
+
 ## Overview
 
 The Meshtastic Antenna Tester allows you to:
@@ -39,7 +48,8 @@ In this tab, you can view results for different locations. Similar to the Antenn
 
 ### Data Tab
 
-This tab allows you to manage your data by deleting specific antennas or locations, or even the entire database. You can also export test results as a CSV file or the entire database for further analysis in other programs.
+This tab allows you to manage your data by deleting specific antennas or locations, or even the entire database. 
+You can also export test results as a CSV file or the entire database for further analysis in other programs.
 
 ### Guide Tab
 
@@ -81,6 +91,4 @@ The Location Score is also calculated on a scale of 1 to 10, but it is based on 
 
 This app was developed by **OE3JGW / Jürgen Waissnix**. If you want to support me, you can do so via PayPal at **waissnix@gmail.com**. You can also use this email address for support inquiries for this app.
 
----
 
-*For more information, please refer to the in-app guide or contact the developer.*
