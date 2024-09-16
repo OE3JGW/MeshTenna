@@ -3,9 +3,9 @@
 The **Meshtastic Antenna Tester** is a Windows/Android tool designed to compare the performance of different antennas **and locations** using Meshtastic devices. It measures and analyzes signal strength (RSSI) and signal-to-noise ratio (SNR) to help you identify the best antenna and optimal locations for specific conditions. This tool uses a portable test node (TCP client, Heltec v3 is recommended) to gather data at different locations and a fixed destination node for consistent measurements.
 
 ## Usage / Installation:
-Setup Python and use it with python under windows. 
-Or "flet build apk" using flet: https://github.com/flet-dev/flet
-Or, if youre just wanna use it on android as an enduser, feel free to download the release version. 
+- Setup Python and use it with python under windows
+- Or "flet build apk" using flet: https://github.com/flet-dev/flet to build a android release version (apk file)
+- Or, if youre just wanna use it on android as an enduser, feel free to download the release version on this github page
 
 ## Screenshots:
 ![3](https://github.com/user-attachments/assets/c0f81fb4-e6e0-40c9-a1e0-cc0991927eb3)
